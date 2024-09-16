@@ -43,7 +43,7 @@ return (
     </div>
     : <>
       <div className="greet">
-        <p><span>Hello, Ganesh.</span></p>
+        <p><span>Hello, User.</span></p>
         <p>How can I help you today?</p>
       </div>
       <div className="cards">
