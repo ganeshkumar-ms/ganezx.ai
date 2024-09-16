@@ -77,7 +77,7 @@ return (
         </div>
       </div>
       <p className="bottom-info">
-        Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini Apps
+      This Gemini AI clone project is developed by "Ganeshkumar M" aims to replicate Google's Gemini AI model.
       </p>
     </div>
   </div>
