@@ -18,14 +18,16 @@ return (
 
 <div className='main'>
 <div className="nav">
-  <p>Gemini</p>
+  <p onClick={()=>{
+    window.location.reload()
+   }}>Gemini</p>
   <img src={assets.logo} alt="" />
 </div>
 <div className="main-container">
   {showResult
     ? <div className="result">
       <div className='result-title'>
-        <img src={assets.user_icon} alt="" />
+        <img src={assets.logo} alt="" />
         <p>{recentPrompt}</p>
       </div>
       <div className="result-data">
@@ -47,7 +49,7 @@ return (
         <p>How can I help you today?</p>
       </div>
       <div className="cards">
-        <div className="card">
+        <div className="card" >
           <p>Suggest the best Places to visit in paris</p>
           <img src={assets.compass_icon} alt="" />
         </div>
@@ -69,7 +71,7 @@ return (
 
 <div className="main-bottom">
       <div className="search-box">
-        <input onChange={(e) => setInput(e.target.value)} value={input} type="text" placeholder='Enter a prompt here' />
+        <input onChange={(e) => setInput(e.target.value)} value={input} type="text" placeholder='Enter a prompt here'  />
         <div>
           <img src={assets.gallery_icon} width={30} alt="" />
           <img src={assets.mic_icon} width={30} alt="" />

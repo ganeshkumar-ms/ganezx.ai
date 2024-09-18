@@ -54,7 +54,6 @@
   border-radius: 10px;
   position: relative;
   cursor: pointer;
-
 }
 
 .main .card img{
@@ -229,4 +228,27 @@ align-items: center;
   .search-box div{
       gap: 5px;
   }
+
 }
+
+
+@media (max-width:500px) {
+.main .card{
+  width:180px;
+}
+
+.main .cards{
+  display: grid;
+  grid-template-columns:repeat(2,minmax(180px,1fr));
+}
+
+.main .nav{
+  background-color: #c4c7c552;
+}
+}
+
+
+
+
+
+
