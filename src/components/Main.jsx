@@ -20,7 +20,7 @@ return (
 <div className="nav">
   <p onClick={()=>{
     window.location.reload()
-   }}>Gemini</p>
+   }}>ganezx.ai</p>
   <img src={assets.logo} alt="" />
 </div>
 <div className="main-container">
@@ -79,7 +79,7 @@ return (
         </div>
       </div>
       <p className="bottom-info">
-      This Gemini AI clone project is developed by "<a href="https://www.linkedin.com/in/ganeshkumar-m-128a19259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ganeshkumar M</a>" aims to replicate Google's Gemini AI model.
+      It's the Gemini AI clone developed by "<a href="https://www.linkedin.com/in/ganeshkumar-m-128a19259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ganeshkumar M</a>" aims to replicate Google's Gemini AI model.
       </p>
     </div>
   </div>
