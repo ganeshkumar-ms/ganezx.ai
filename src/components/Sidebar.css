@@ -4,9 +4,9 @@
   display: inline-flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: #f0f4f9;
   padding: 25px 15px;
   height: 100%;
+  background-color: #735DA5;
 }
 
 .sidebar img {
@@ -25,10 +25,10 @@
   align-items: center;
   gap: 10px;
   padding: 10px 15px;
-  background-color: #e6eaf1;
+  background-color: #c1dbec;
   border-radius: 50px;
   font-size: 14px;
-  color: grey;
+  color: #000000af;
   cursor: pointer;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .sidebar .recent-entry:hover {
-  background-color: #e2e6eb;
+  background-color: #c1dbec;
 }
 
 .sidebar.bottom{
