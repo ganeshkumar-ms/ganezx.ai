@@ -1,31 +1,26 @@
-# Gemini Clone
+# Ganezx.ai
 
-Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
-
-## Introduction
-
-This project introduces a React-based web application that functions as a clone of the Google Gemini AI chatbot. It provides a user-friendly interface for interacting with the powerful Gemini model, allowing you to ask questions and receive informative responses in a conversational manner.
+Ganezx.ai is an AI-powered platform inspired by **Gemini AI**. Built using **HTML**, **CSS**, **JavaScript**, and **React**, this website provides AI-driven services powered by the **Google Developer Gemini API**. Explore intelligent, real-time AI responses and data analysis.
 
 ## Features
+- **AI-Powered Interactions** using the Gemini API.
+- **Responsive UI** with React and modern CSS styling.
+- **Real-Time Data Processing** powered by Gemini.
 
-### Core Features
-
-- **Chat Interface:** Provides a dedicated interface for interacting with the Gemini model in a conversational style.
-- **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.
-- **Google Gemini Integration:** Utilizes the capabilities of the Google Gemini model for generating informative responses.
-
-### Additional Features
-
-- **React-based Development:** Leverages React's efficient component-based approach for building the application.
-- **CSS Styling:** Employs CSS to style the user interface for visual appeal and usability.
-
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Google Developer Gemini API
 
 ## Installation
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/ganeshkumar-ms/gemini.ai
-"# gemini.ai-clone" 
-"# gemini.ai-clone" 
-"# gemini-clone" 
+   git clone https://github.com/ganeshkumar-ms/ganezx-ai.git
+
+ ## Live Demo
+
+You can view the live demo here: [Live Demo](https://ganezx-ai.netlify.app/)
+
