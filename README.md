@@ -1,6 +1,6 @@
-# Ganezx.ai
+# ganezx.ai
 
-Ganezx.ai is an AI-powered platform inspired by **Gemini AI**. Built using **HTML**, **CSS**, **JavaScript**, and **React**, this website provides AI-driven services powered by the **Google Developer Gemini API**. Explore intelligent, real-time AI responses and data analysis.
+ganezx.ai is an AI-powered platform inspired by **Gemini AI**. Built using **HTML**, **CSS**, **JavaScript**, and **React**, this website provides AI-driven services powered by the **Google Developer Gemini API**. Explore intelligent, real-time AI responses and data analysis.
 
 ## Features
 - **AI-Powered Interactions** using the Gemini API.
@@ -12,7 +12,7 @@ Ganezx.ai is an AI-powered platform inspired by **Gemini AI**. Built using **HTM
 - CSS3
 - JavaScript
 - React
-- Google Developer Gemini API
+- Gemini API key
 
 ## Installation
 
