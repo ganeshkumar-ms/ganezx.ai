@@ -79,7 +79,7 @@ return (
         </div>
       </div>
       <p className="bottom-info">
-      It's the Gemini AI clone developed by "<a href="https://www.linkedin.com/in/ganeshkumar-ms">Ganeshkumar M</a>" aims to replicate Google's Gemini AI model.
+      It was developed by "<a href="https://www.linkedin.com/in/ganeshkumar-ms">Ganeshkumar M</a>", inspired by Google's Gemini AI.
       </p>
     </div>
   </div>
