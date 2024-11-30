@@ -79,7 +79,7 @@ return (
         </div>
       </div>
       <p className="bottom-info">
-      It was developed by "<a href="https://www.linkedin.com/in/ganeshkumar-ms">Ganeshkumar M</a>", inspired by Google's Gemini AI.
+      It was developed by "<a href="https://www.linkedin.com/in/ganeshkumar-ms">Ganeshkumar M</a>", inspired by Gemini AI.
       </p>
     </div>
   </div>
